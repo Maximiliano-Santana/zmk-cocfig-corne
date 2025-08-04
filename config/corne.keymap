@@ -36,7 +36,7 @@
 
             bindings = <
 &kp N2     &kp N3      &kp N4             &kp N5            &kp N6      &kp N7       &kp KP_DIVIDE    &kp KP_N7  &kp KP_N8  &kp KP_N9        &kp KP_NUMLOCK  &kp BSPC
-&kp N1     &kp C_PREV  &kp C_VOLUME_DOWN  &kp C_VOL_UP      &kp C_NEXT  &kp N8       &kp KP_MULTIPLY  &kp KP_N4  &kp KP_N5  &kp KP_NUMBER_6  &kp KP_PLUS     &kp KP_EQUAL
+&kp N1     &kp C_PREV  &kp C_VOLUME_DOWN  &kp C_VOL_UP      &kp C_NEXT  &kp N8       &kp KP_MULTIPLY  &kp KP_N4  &kp KP_N5  &kp KP_NUMBER_6  &kp KP_PLUS     &kp EQUAL
 &kp LSHFT  &trans      &trans             &kp K_PLAY_PAUSE  &kp N0      &kp N9       &kp CARET        &kp KP_N1  &kp KP_N2  &kp KP_N3        &kp KP_DOT      &kp RIGHT_SHIFT
                                           &kp LEFT_ALT      &trans      &kp SPACE    &kp RET          &trans     &kp KP_N0
             >;
