@@ -52,7 +52,7 @@
             bindings = <
 &kp PIPE   &kp AMPERSAND  &kp AT    &kp HASH      &kp DLLR          &kp PRCNT    &trans    &kp PG_UP  &kp UP        &trans     &kp DEL  &kp BSPC
 &kp COLON  &kp LPAR       &kp RPAR  &kp LBRC      &kp RBRC          &kp SEMI     &kp HOME  &kp LEFT   &kp DOWN      &kp RIGHT  &kp END  &trans
-&kp LSHFT  &trans         &kp LBKT  &kp RBKT      &kp SINGLE_QUOTE  &kp TILDE    &trans    &kp PG_DN  &trans        &trans     &trans   &trans
+&kp LSHFT  &kp TILDE      &kp LBKT  &kp RBKT      &kp SINGLE_QUOTE  &kp GRAVE    &trans    &kp PG_DN  &trans        &trans     &trans   &trans
                                     &kp LEFT_ALT  &trans            &kp SPACE    &kp RET   &trans     &kp LEFT_GUI
             >;
         };
